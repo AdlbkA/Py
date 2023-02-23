@@ -1,7 +1,7 @@
 import datetime
 from datetime import datetime, time, timedelta, date
 # task 1
-# dt = date.today() - timedelta(0)
+# dt = date.today() - timedelta(5)
 # print('Current Date :',date.today())
 # print('5 days before Current Date :',dt)
 
