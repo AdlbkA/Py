@@ -44,10 +44,10 @@ from string import ascii_uppercase
 #         file2.write(line)
 
 # task 8
-path = r'C:\Users\Адилбековы\Desktop\Ануар\Python-PP2\week6\testfile2.txt'
-path_bool = os.access(path, os.F_OK)
-if path_bool == False:
-    print('Path does not exist')
-elif path_bool == True:
-    os.remove(path)
-    print("File has been removed")
+# path = r'C:\Users\Адилбековы\Desktop\Ануар\Python-PP2\week6\testfile2.txt'
+# path_bool = os.access(path, os.F_OK)
+# if path_bool == False:
+#     print('Path does not exist')
+# elif path_bool == True:
+#     os.remove(path)
+#     print("File has been removed")
